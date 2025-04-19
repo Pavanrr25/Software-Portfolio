@@ -1,0 +1,16 @@
+body {
+    font-family: 'Courier New', monospace;
+  }
+  
+  .section-heading {
+    @apply text-lg font-semibold text-gray-700 border-b pb-2;
+  }
+  
+  .link {
+    @apply text-blue-500 underline;
+  }
+  
+  .contact-list li {
+    @apply text-sm text-gray-600 mt-1;
+  }
+  
