@@ -7,7 +7,7 @@
 
 ## 🌐 About Me
 
-I'm a passionate **Information Technology undergraduate** from Sandip Institute of Technology and Research Centre (2023–2027), with hands-on experience in building **responsive and dynamic web applications** using **HTML, CSS, JavaScript, and React**.
+I'm a passionate **Information Technology undergraduate** from **Sandip Institute of Technology and Research Centre** (2023–2027), with hands-on experience in building **responsive and dynamic web applications** using **HTML, CSS, JavaScript, and React**.
 
 🔧 Currently sharpening my skills in **full-stack development** and exploring **cloud technologies**.  
 🧠 I enjoy transforming ideas into real-time solutions through clean, functional, and user-friendly interfaces.
@@ -25,17 +25,17 @@ I'm a passionate **Information Technology undergraduate** from Sandip Institute 
 
 ## 🧩 Projects
 
-### 📁 [My Portfolio](https://pavanrr25.github.io/Software-Portfolio/)
+### 📁[Personal Portfolio](https://github.com/Pavanrr25/pavanportfolio)
+### 📁[Software Portfolio](https://pavanrr25.github.io/Software-Portfolio/)
 > A sleek and responsive portfolio website showcasing my web development journey.  
-> Built using HTML, CSS, and JavaScript.  
-> 🔗 [GitHub Repo](https://github.com/Pavanrr25/pavanportfolio)
+> Built using **HTML, CSS, and JavaScript**.  
 
 ---
 
 ## 💼 Experience
 
-### 🌍 **Web Developer Intern**  
-**Cyborgwave, Texxas (Dallas, UK)** | June 2024 - July 2024  
+### 🌍 Web Developer Intern  
+**Cyborgwave, Texxas (Dallas, UK)** | June 2024 – July 2024  
 - Developed and maintained responsive web interfaces  
 - Collaborated with design and backend teams  
 - Optimized website performance and UX  
@@ -44,18 +44,18 @@ I'm a passionate **Information Technology undergraduate** from Sandip Institute 
 
 ## 🏅 Certifications
 
-- 🏆 Software Engineer Intern - HackerRank  
-- ☁️ AWS Cloud Essentials - Amazon  
-- 🌥️ Google Cloud Essentials - Google Cloud  
-- 🧠 Python Programming for Beginners - Udemy  
-- ☁️ IBM Journey to Cloud: Envisioning Your Solution  
+- 🏆 Software Engineer Intern – HackerRank  
+- ☁️ AWS Cloud Essentials – Amazon  
+- 🌥️ Google Cloud Essentials – Google Cloud  
+- 🧠 Python Programming for Beginners – Udemy  
+- ☁️ IBM Journey to Cloud: Envisioning Your Solution
 
 ---
 
 ## 🌱 Communities & Achievements
 
-- 💡 Member, Google Developer Group (Sep 2023 - Present)  
-- 🌐 Member, Google Cloud Innovators (July 2024 - Present)  
+- 💡 Member – Google Developer Group (Sep 2023 – Present)  
+- 🌐 Member – Google Cloud Innovators (July 2024 – Present)
 
 ---
 
@@ -68,4 +68,4 @@ I'm a passionate **Information Technology undergraduate** from Sandip Institute 
 
 ---
 
-Turning code into creativity  one line at a time.
+Turning code into creativity one line at a time. 🚀
